@@ -20,3 +20,4 @@ This repository contains lecture notes, PDFs, and resources for **Digital Electr
 ## 🧠 Additional Practice
 - **DPP on Logic Gates**
 - **DPP on Boolean Algebra**
+- **GATE/NET PYQs**
